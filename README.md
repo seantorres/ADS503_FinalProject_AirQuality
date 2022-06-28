@@ -12,4 +12,4 @@
 
 ## Presentation
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0p7yDSFeKBE/sddefault/1.jpg)](https://youtu.be/0p7yDSFeKBE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0p7yDSFeKBE/sddefault.jpg)](https://youtu.be/0p7yDSFeKBE)
