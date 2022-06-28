@@ -6,7 +6,7 @@
 
 ## Objectives
 - Analyze and Preprocess Data
-- Measuring the  best Air Quality within Shunyi District
+- Measure for the best Air Quality variables within Shunyi District
 - Models to use Random Forest,Elasticnet, OLS, and PLS
 
 ## Data Sources
