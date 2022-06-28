@@ -1,0 +1,7 @@
+pls == 2.8-0
+corrplot == 0.84
+caret == 6.0-88
+pROC == 1.17.0
+VIM == 6.11
+ranger == 0.14.1
+randomForest == 4.6-14
